@@ -1,0 +1,4 @@
+TYPE	 TRIP_NUMBER	 COST    DEMAND	    TRIP
+Truck    1				 1116 	 5 			0 10 12 4 0 
+PORTER1  1				 1731 	 16 		0 6 5 1 9 7 11 3 2 8 0 
+COST					 2947
