@@ -1,4 +1,0 @@
-TYPE	 TRIP_NUMBER	 COST    DEMAND	    TRIP
-Truck    1				 1466 	 7 			0 15 13 12 14 11 0 
-PORTER1  1				 1682 	 19 		0 1 2 9 10 7 5 6 3 4 8 0 
-COST					 3248
